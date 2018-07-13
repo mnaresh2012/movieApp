@@ -10,6 +10,10 @@ Search your favourite movies and save in your favourite category.
  "express": "^4.16.3",
  "nodemon": "^1.18.1"
 ```
+### Start the server -
+```
+ npm start
+```
 
 ### Repository -
 gitHub -  [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
