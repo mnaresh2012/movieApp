@@ -1,0 +1,21 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Find your favourite movies.",
+  "main": "movieApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "naresh@icloud.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.1"
+  }
+}
